@@ -1,0 +1,1 @@
+export {FeaturedPropertiesList} from './FeaturedPropertiesList';

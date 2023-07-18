@@ -1,0 +1,171 @@
+[
+  {
+    "id": 1,
+    "name": "Rambagh Palace",
+    "location": "India",
+    "description": "About Taj Hotels Resorts and Palaces: Established in 1901, Taj Hotels Resorts and Palaces is one of Asia's largest and finest group of hotels, comprising over 119 hotels in 61 locations across India with an additional 17 international hotels in the Maldives, Malaysia, UK, USA, Bhutan, Sri Lanka, Africa and the Middle East. From world-renowned landmarks to modern business hotels, idyllic beach resorts to authentic Grand Palaces, each Taj hotel offers an unrivalled fusion of warm Indian hospitality, world-class service and modern luxury. For over a century, The Taj Mahal Palace, Mumbai, the iconic flagship has set a benchmark for fine living with exquisite refinement, inventiveness and warmth. Taj Hotels Resorts and Palaces is part of the Tata Group, India's premier business house.",
+    "pricePerNight": 371,
+    "rating": 5,
+    "amenities": ["Free Wi-Fi", "Swimming Pool", "Gym"],
+    "images": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/07/d5/77/rambagh-palace-exterior.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/ec/03/e3/facade-of-rambagh-palace.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/40/e5/40/taj-rambagh-palace.jpg?w=700&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/ec/02/c2/pothikhana-suite-royal.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/f7/e0/98/suvarna-mahal-royal-indian.jpg?w=1000&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/f7/e0/09/outdoor-swiming-pool.jpg?w=1000&h=-1&s=1"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ozen Reserve Bolifushi",
+    "location": "Madahoo",
+    "description": "Ozen Reserve Bolifushi is located in a spot of graceful elegance, offering excitement within endless beauty. Hidden beneath lush tropical vegetation, the resort island is surrounded by expansive white beaches and turquoise waters. The resort brings alive the quintessential Ozen Collection experience. From the traditional Maldivian island welcome and seamless hospitality to tropical adventures, every stay is carefully crafted to indulge you with a romantic escape or a joyful family getaway. The property is a 35-minute luxury catamaran ride from the Velana International Airport. Choose from 90 gorgeous villas located over water or on the beach. All the villas offer a private swimming pool with daybeds and a deck. Interiors create a feeling of timeless opulence. Timber flooring, high ceiling roofs, maxi bar, spacious bathrooms and exotic Indian Ocean views add to the charm. The villas by the beach have traditional wooden swings. Some of the water villas feature slides from the top floor leading into the lagoon below. Dine in Maldivian splendour with sublime views of the Indian Ocean. The resort offers a variety of dining experiences and cuisines, including traditional Indian cuisine, refreshing Middle Eastern dishes by the beach, and gourmet seafood dishes - paired with excellent wines and champagnes. Bolifushi Island has one of the best house reefs in the South Malé Atoll. It stretches around the island – and you don’t have to swim far to see captivating coral and shoals of colourful reef fish. There are several world-class diving sites nearby. Explore these with courses and expeditions arranged by the PADI certified dive centre. Facilities on the island include a spa with 100% organic treatments, an overwater gymnasium, semi-submarine adventures, non-motorised water sports, and complimentary bicycles. The inviting Kid’s Club and Teen Lounge host regular events and activities, including the popular children’s educational Island Treasure Hunt.",
+    "pricePerNight": 150,
+    "rating": 4.9,
+    "amenities": ["Free Breakfast", "Parking"],
+    "images": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/b9/35/bf/ozen-reserve-bolifushi.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/b9/37/f2/ozen-reserve-bolifushi.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/b9/35/d3/ozen-reserve-bolifushi.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/b9/37/fa/ozen-reserve-bolifushi.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/b9/35/c6/ozen-reserve-bolifushi.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/b9/35/dd/ozen-reserve-bolifushi.jpg?w=1200&h=-1&s=1"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Hotel Colline de France",
+    "location": "Brazil",
+    "description": "Hotel Colline de France is renowned for its charming and comfortable ambiance, offering personalized service that exudes French elegance. It's the perfect place to indulge in a one-of-a-kind experience and explore the attractions of the mountain town of Gramado all year round. Its 34 suites feature an exclusive design with meticulously crafted furniture, intricately painted details in gold or silver tones, and rooms that are delicately scented with a personalized fragrance. Amenities are provided by the prestigious brand L'Occitane, while the bath and bed linens by the renowned brand Trussardi are crafted from luxurious Egyptian cotton. In addition, rooms are equipped with Nespresso coffee machines and Smart TVs with a wide selection of channels. To enhance the overall comfort and ensure the utmost satisfaction, guests have the privilege of indulging in the delights of Bistrot L'Escoffier, where an unparalleled breakfast experience awaits them. The hotel’s wellness center offers a range of options for relaxing massages, body and facial treatments.",
+    "pricePerNight": 230,
+    "rating": 4.8,
+    "amenities": ["Restaurant", "Bar"],
+    "images": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/22/00/50/fd/hotel-colline-de-france.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/c4/04/6c/jardim.jpg?w=1000&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/04/52/ef/hotel-colline-de-france.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/04/4e/b8/hotel-colline-de-france.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/f8/f0/93/hotel-colline-de-france.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/f8/f2/73/hotel-colline-de-france.jpg?w=1200&h=-1&s=1"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Shangri-La The Shard",
+    "location": "London",
+    "description": "Feel an unparalleled connection at Shangri-La The Shard, London. Stay in the capital's highest hotel, in one of the world's most iconic buildings, whilst enjoying panoramic skyline views that connect you to the whole city. This is the only five-star luxury hotel in London Bridge, contrasting sleek modern style with the area's rich historic character. Connect with the real London in our vibrant neighbourhood, balancing old and new, raw and refined, traditional and visionary. Explore nearby food destinations such as Borough Market and Bermondsey Street, and enrich your stay with our array of authentic London experiences. Staying in London Bridge lets you benefit from the most convenient transportation access, whether by foot, car, boat or rail. For leisure visits, we easily connect to all of London's most famous landmarks, from Big Ben to St. Paul's Cathedral and the Tower of London. For business, it's a quick trip to the City and Canary Wharf.",
+    "pricePerNight": 120,
+    "rating": 4.0,
+    "amenities": ["Spa", "Fitness Center"],
+    "images": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/1f/c1/8c/shangri-la-hotel-at-the.jpg?w=1100&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/1f/c1/f9/li-private-dining-set.jpg?w=1100&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/1f/c1/f1/gym.jpg?w=1100&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/1f/c1/d9/sky-pool.jpg?w=1100&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/1f/c1/d1/shangri-la-suite-bedroom.jpg?w=1100&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/1f/c1/cb/london-suite-bathroom.jpg?w=1100&h=-1&s=1"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "JW Marriott Marquis Hotel",
+    "location": "Dubai",
+    "description": "Dubai is a city of awe-inspiring ambition and unsurpassed luxury, home to the world's tallest building, the largest shopping mall, the iconic Palm, and JW Marriott Marquis Hotel Dubai - the worlds tallest hotel. It is a place where dreams come true, as is our hotel in Dubai. JW Marriott Marquis Hotel Dubai offers a spectrum of business facilities for the most discerning travelers. We are a hotel in Dubai, United Arab Emirates synonymous with intuitive service and refined taste, and our luxury hotel's title is given only to the finest properties in the Marriott portfolio. Elevated above Dubai's business district, on Sheikh Zayed Road, JW Marriott Marquis Hotel Dubai resides in the Business Bay area and is a top choice for 5-star hotels in Dubai. Spread across 2 iconic towers, our hotel features exceptional event and business facilities, an enticing array of bars and restaurants, and the sublime Saray Spa and Health Club.",
+    "pricePerNight": 120,
+    "rating": 4.7,
+    "amenities": ["Free Wi-Fi", "Restaurant", "Bar"],
+    "images": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/9c/0e/exterior.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/9c/7c/saray-spa-couple-treatment.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/9c/7e/saray-spa-dead-sea-floatation.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/9c/75/club-marquis-fitness.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/9c/74/outdoor-pool-sunbeds.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/ed/3d/07/jw-marriott-marquis-dubai.jpg?w=600&h=-1&s=1"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "The Ritz-Carlton",
+    "location": "Hong Kong",
+    "description": "Occupying floors 102 to 118 of the International Commerce Centre in Kowloon, The Ritz-Carlton, Hong Kong, is the highest hotel in the world. The 5-star Hong Kong hotel's 312 guestrooms offer spectacular city and harbor views. The hotel offers guests an epicurean journey in the sky with its six distinctive dining venues, including state-of-the-art Michelin-starred Italian restaurant Tosca di Angelo and Michelin two-starred Chinese restaurant Tin Lung Heen as rooftop bar Ozone at 490 meters above sea level. For those wishing to relax and indulge, The Ritz-Carlton Spa Hong Kong, located on the 116th floor, features nine deluxe treatment rooms and two couple's suites, redefining the urban spa experience in the city and across Asia. The hotel features a fully equipped fitness center, outdoor Jacuzzi, and an indoor pool on the 118th floor with a 28m x 7m LED screen on the ceiling, as well as one of the largest ballrooms in the city at 870sqm. Complemented by an additional four meeting rooms, the ballroom has become the major social venue for Hong Kong and has set the benchmark for events in the region.",
+    "pricePerNight": 150,
+    "rating": 4.5,
+    "amenities": ["Parking", "Swimming Pool"],
+    "images": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/d1/87/59/the-ritz-carlton-hong.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/4f/16/b6/tosca-michelin-star-italian.jpg?w=1200&h=-1&s=1", 
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/4f/13/c7/grand-victoria-harbour.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/4f/13/c6/grand-victoria-harbour.jpg?w=1200&h=-1&s=1", 
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/d1/87/c3/the-ritz-carlton-hong.jpg?w=1100&h=-1&s=1", 
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/d1/87/29/the-ritz-carlton-hong.jpg?w=1200&h=-1&s=1"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Romance Istanbul Hotel",
+    "location": "Turkey",
+    "description": "Romance Istanbul Hotel has 39 rooms.Every room is elegantly furnished and harmonizes the modern life style with the traditional Ottoman touch. Romance Istanbul sits at the intersection of the old city’s most important part. With its luxuriously inspiring design and landmark old city location, steeped in the history of its surroundings, Romance Istanbul Hotel welcomes you with exceptional designed rooms and world-renowned Turkish hospitality. Our colleagues deliver the most personal service. It is perfectly placed and perfectly designed to enhance all that Istanbul has to offer. Each room offers a private bathroom and shower. Each is equipped with a satellite TV and free wifi connection. The rooms size change between 20 m2 and 45 m2. It includes 7 suite rooms: 1 Royal Suite, 4 Grand Suite, 1 Romance Suite and 1 Premium Suite, 2 Luxury Room With Terrace, 22 Deluxe Room, 8 City Room.",
+    "pricePerNight": 110,
+    "rating": 4.6,
+    "amenities": ["Gym", "Spa"],
+    "images": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/cd/4c/4c/romance-hotel-boutique.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/ce/0e/14/spa-center.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/ce/0c/6f/romance-istanbul-hotel.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/cd/4d/26/romance-hotel-boutique.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/ce/09/df/fitness.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/4b/6b/03/romance-istanbul-hotel.jpg?w=1200&h=-1&s=1"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Ikos Dassia",
+    "location": "Greece",
+    "description": "Ikos Dassia is a new 5 star resort, built in a luxurious, contemporary Mediterranean style, located on the beachfront setting of Dassia beach, on Corfu Island, with its own long sandy beach. Ikos Dassia applies the highest standards of quality, service and entertainment, design and style- according to the award-winning Ikos Resorts concept. Ikos Resorts offers a unique Luxury All-Inclusive experience, a redefined hospitality concept, based on elegance, quality, comfort, attention to detail and authenticity. The resort is spread over a beautiful landscape overlooking the dazzling Ionian Sea. The resort is located 15 minutes from Corfu International Airport and the Old Town of Corfu with its historical attractions. This all-suite and villa resort promises a design-led experience with a focus on privacy and relaxation, modern luxury and stunning sea views. The variety of room types can accommodate any preference or requirement and provide absolute comfort and luxury. The resort offers an impressive selection of 10 different restaurants offering a-la-carte menus from Greek, Italian, Asian and French cuisine, as well as a Dine Out concept. Guests can also enjoy signature cocktails and drinks from 8 different bars, both indoor and outdoor. Ikos Spa by Anne Semonin invites you to embark on a journey of relaxation, rejuvenation and wellness through an extensive range of treatments and therapies. Ikos Dassia is a family-friendly resort with incredible amenities, including a football academy, a creche, mini club, kids club, and teens club.",
+    "pricePerNight": 220,
+    "rating": 4.7,
+    "amenities": ["Free Wi-Fi", "Swimming Pool", "Spa"],
+    "images": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/af/aa/97/exterior.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/af/aa/8c/exterior.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/af/aa/01/exterior.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/af/aa/1d/exterior.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/af/aa/0f/exterior.jpg?w=1200&h=-1&s=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/af/aa/1f/exterior.jpg?w=1200&h=-1&s=1"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Ikos Andalusia",
+    "location": "Spain",
+    "description": "Soak up the carefree ambience and ultra-cool Mediterranean style of all-inclusive Ikos Andalusia, on Spain’s sun-drenched Costa Del Sol and the ideal location to experience Marbella’s luxuriously vibrant lifestyle. Our award-winning Infinite Lifestyle ensures virtually every element of your vacation is included in the original cost to ensure your stay with us is lavish, relaxed and perfectly unforgettable.",
+    "pricePerNight": 130,
+    "rating": 4.1,
+    "amenities": ["Parking", "Swimming Pool"],
+    "images": ["https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/75/7a/8c/ikos-andalusia.jpg?w=1200&h=-1&s=1",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/70/1d/56/ikos-andalusia.jpg?w=1200&h=-1&s=1",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/6a/9c/1f/ikos-andalusia.jpg?w=1200&h=-1&s=1",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/70/21/7b/ikos-andalusia.jpg?w=1200&h=-1&s=1",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/70/21/5a/ikos-andalusia.jpg?w=1200&h=-1&s=1",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/70/1d/93/ikos-andalusia.jpg?w=1200&h=-1&s=1"
+]
+  },
+  {
+    "id": 10,
+    "name": "Padma Resort Ubud",
+    "location": " Indonesia",
+    "description": "Ensconced within an untouched river valley overlooking the enchanting bamboo forests of Payangan in Ubud; the 149-room Padma Resort Ubud is an expansive destination resort located north of Bali’s celebrated cultural centre. Padma Resort Ubud features the five-star amenities and facilities offered by the renowned Padma hospitality brand including stunning views from every room or suite, an 89-metre infinity swimming pool and signature world-class dining venues. Comprising 11 hectares, Padma Resort Ubud offers discerning travellers a rare opportunity to experience contemporary Balinese architecture and artworks in an unparalleled natural setting.",
+    "pricePerNight": 95,
+    "rating": 3.9,
+    "amenities": ["Bar", "Fitness Center"],
+    "images": [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/f8/1c/13/padma-resort-ubud.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/f7/f6/ab/padma-resort-ubud.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/f8/0b/79/padma-resort-ubud.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/f8/0a/85/padma-resort-ubud.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/26/fb/02/romantic-dinner-with.jpg?w=1200&h=-1&s=1",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/26/ff/f0/agroforestry-garden.jpg?w=1200&h=-1&s=1"
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+.Footer
+{
+	width: 100%;
+    max-width: 1680px;
+    font-size: 12px;
+    & .footerCopyRight {
+        color:#003580;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+}
